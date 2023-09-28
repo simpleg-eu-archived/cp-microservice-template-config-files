@@ -25,7 +25,8 @@
                 "no_ack": false,
                 "exclusive": false,
                 "nowait": false
-            }
+            },
+            "arguments": {}
         },
         "acknowledge": {
             "multiple": false
